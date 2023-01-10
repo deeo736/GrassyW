@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrassyW.API", "GrassyW.API\GrassyW.API.csproj", "{6CA144F9-D171-466B-8D92-213021BA0009}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrassyW.Web", "GrassyW.Web\GrassyW.Web.csproj", "{709F37A1-1633-4065-ABE8-B4AD934ED19A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CA144F9-D171-466B-8D92-213021BA0009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CA144F9-D171-466B-8D92-213021BA0009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CA144F9-D171-466B-8D92-213021BA0009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CA144F9-D171-466B-8D92-213021BA0009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{709F37A1-1633-4065-ABE8-B4AD934ED19A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{709F37A1-1633-4065-ABE8-B4AD934ED19A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{709F37A1-1633-4065-ABE8-B4AD934ED19A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{709F37A1-1633-4065-ABE8-B4AD934ED19A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3EA88F0-3784-437D-A9E4-F8C972893A20}
+	EndGlobalSection
+EndGlobal
